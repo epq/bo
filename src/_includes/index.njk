@@ -10,13 +10,8 @@
   <body>
     {# just put the h1 in the markdown? #}
     <h1>{{ title }}</h1>
-    {# navigation bar, cycle through all the pages #}
-    <nav>
-      <ul>
-        {% for page in site.pages %}
-          <li><a href="{{ page.url }}">{{ page.title }}</a></li>
-        {% endfor %}
-      </ul>
+    <p>sniff sniff</p>
+
     <article>
     {{ content | safe }}
     </article>

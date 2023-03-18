@@ -1,9 +1,6 @@
 ---
 title: Social Justice
 ---
-
-# Social Justice
-
 I believe strongly in social justice and equality for all creatures, great and small. Some of my personal causes include:
 
 -   Protecting habitats in the city

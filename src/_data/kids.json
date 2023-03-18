@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Bingo",
+    "birth order": "1",
+    "personality": "natural leader",
+    "favourite food": "berries",
+    "hobby": "climbing",
+    "aspiration": "wildlife biologist"
+  },
+  {
+    "name": "Bongo",
+    "birth order": "2",
+    "personality": "mischievous",
+    "favourite food": "insects",
+    "hobby": "playing hide and seek",
+    "aspiration": "acrobat in the circus"
+  },
+  {
+    "name": "Bojangles",
+    "birth order": "3",
+    "personality": "curious",
+    "favourite food": "sweet potatoes",
+    "hobby": "exploring new places",
+    "aspiration": "travel writer"
+  },
+  {
+    "name": "Bogart",
+    "birth order": "4",
+    "personality": "gentle",
+    "favourite food": "mushrooms",
+    "hobby": "cuddling with siblings",
+    "aspiration": "poet"
+  },
+  {
+    "name": "Bolé",
+    "birth order": "5",
+    "personality": "energetic",
+    "favourite food": "bananas",
+    "hobby": "wrestling with siblings",
+    "aspiration": "professional wrestler"
+  }
+]

@@ -1,9 +1,6 @@
 ---
 title: Toronto
 ---
-
-# Favourite Places in Toronto
-
 As a city opossum, I love exploring all the nooks and crannies of Toronto. Some of my favourite places to hang out include:
 
 -   The Toronto Islands

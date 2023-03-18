@@ -1,9 +1,6 @@
 ---
 title: Life Tips
 ---
-
-# Life Tips
-
 I've learned a few things about how to survive and thrive in the city.
 
 -   Be adaptable and resourceful

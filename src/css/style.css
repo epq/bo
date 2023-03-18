@@ -7,10 +7,6 @@
           box-sizing: border-box;
 }
 
-[hidden] {
-  display: none !important;
-}
-
 /* Page structure */
 body {
   font-family: "DM Sans", Helvetica, sans-serif;
@@ -220,5 +216,42 @@ a:visited {
 
 .divider {
   padding: 0 1rem;
+}
+
+/* container div */
+.kids {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  margin: 0 -0.5rem;
+}
+
+
+.kiddo {
+  background-color: #ffd6b3;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  margin: 0.5rem 0;
+  /* they need to be the same size */
+  width: 48%;
+  /* min width */
+  min-width: 300px;
+}
+
+.kid-img {
+  /* place image to the right, make it block */
+  float: right;
+  display: block;
+  /* make it smaller */
+  width: 50%;
+  /* make it responsive */
+  max-width: 100%;
+  /* make it round */
+  border-radius: 50%;
 }
 /*# sourceMappingURL=style.css.map */
