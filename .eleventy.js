@@ -1,4 +1,5 @@
 module.exports = function (eleventyConfig) {
+  
   eleventyConfig.addPassthroughCopy("src/css");
   eleventyConfig.addWatchTarget("src/css");
   eleventyConfig.addPassthroughCopy("src/images");
@@ -9,6 +10,8 @@ module.exports = function (eleventyConfig) {
 
 
   return {
+    pathPrefix: "bo",
+    url: "https://jordanne.ca",
     passthroughFileCopy: true,
     dir: {
       input: "src",

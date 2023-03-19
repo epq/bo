@@ -4,6 +4,7 @@ date: 2023-04-12
 tags: [food review, poutine, Toronto, late-night]
 layout: page.njk
 ---
+<img src="{{'/images/poutine.png' | url}}" alt="poutine in a dark alleyway">
 
 Hey fellow opossums! 🌙 It's your favorite nocturnal foodie here, sharing my thoughts on a popular late-night snack in Toronto: **Poutine**.
 

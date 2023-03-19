@@ -3,6 +3,7 @@ title: "The Marvelous World of Bagel Crumbs"
 date: 2023-06-03
 tags: [food review, bagels, crumbs, Toronto, breakfast]
 ---
+<img src="{{ '/images/bagel.png' | url }}" alt="bagel crumbs">
 
 Hello, my opossum friends! ☀️ Today, I'll be talking about a delightful breakfast find: **Bagel Crumbs**.
 
