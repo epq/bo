@@ -28,6 +28,5 @@ jobs:
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_branch: epq-test
         publish_dir: ./public  # Replace '_site' with 'public' if your output directory is named 'public'
         commit_message: 'Deploy to GitHub Pages'
