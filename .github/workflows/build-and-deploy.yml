@@ -11,10 +11,10 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
 
     - name: Set up Node.js
-      uses: actions/setup-node@v2
+      uses: actions/setup-node@v3
       with:
         node-version: 16
 
@@ -29,6 +29,4 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./public  # Replace '_site' with 'public' if your output directory is named 'public'
-        user_name: 'github-actions[bot]'
-        user_email: '41898282+github-actions[bot]@users.noreply.github.com'
         commit_message: 'Deploy to GitHub Pages'
